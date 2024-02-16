@@ -1,6 +1,6 @@
 SpringBoot QuizApp with Monolithic Architecture
 
-1) This is a quiz app using SpringBoot which is based on Monolithic Architecture.
+1) This is a quiz app using SpringBoot .
 
 2) This app only consists of backend part which is written in SpringBoot with implementation of controller layer, service layer and dao layer.
   
@@ -18,4 +18,4 @@ SpringBoot QuizApp with Monolithic Architecture
 | difficultylevel | varchar(20)  | YES  |     | NULL    |                |
 +-----------------+--------------+------+-----+---------+----------------+
 
-:- P.S Rajput
+
